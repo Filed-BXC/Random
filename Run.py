@@ -1,2 +1,5 @@
-import filed
-o.system('xdg-open https://chat.whatsapp.com/EHXM9SguhTu34icpoMXUQZ')
+import os,sys,random
+os.system('xdg-open https://chat.whatsapp.com/EHXM9SguhTu34icpoMXUQZ')
+import
+try:
+  filed
